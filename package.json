@@ -1,0 +1,23 @@
+{
+  "name": "umd-template",
+  "version": "1.0.0",
+  "description": "UMD template",
+  "main": "umd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanshaojing/umd-template.git"
+  },
+  "keywords": [
+    "umd",
+    "javascript"
+  ],
+  "author": "shaojing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanshaojing/umd-template/issues"
+  },
+  "homepage": "https://github.com/yanshaojing/umd-template#readme"
+}
